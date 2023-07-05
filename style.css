@@ -1,0 +1,17 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  text-align: center;
+  color: #3B5998;
+}
+
+p{
+  font-style:italic;
+  font-size:12px;
+}
+.dark{
+  background:black;
+}
